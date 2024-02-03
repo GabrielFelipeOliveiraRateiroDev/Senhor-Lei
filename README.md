@@ -3,7 +3,7 @@
 
 > Há 30 anos atuando em diversas áreas legais sempre com os princípios e valores. Temos compromisso com a verdade e focamos nos interesses dos nosso clientes.
 
-### ### Senhor Leis, site completamente de estudo desenvolvido com as seguintes linguagens | tecnologías:
+### ### Senhor Lei, site completamente de estudo desenvolvido com as seguintes linguagens | tecnologías:
 
 <br>
 <br>
@@ -42,7 +42,7 @@
 
 Usei alguns prints, mas considere acessar o link abaixo para a melhor experiência de usuário:
 
-[Senhor Lei]()
+[Senhor Lei](https://github.com/GabrielFelipeOliveiraRateiroDev/Senhor-Lei)
 
 ---
 
